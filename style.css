@@ -9,7 +9,6 @@ body {
     align-items: center;
     justify-content: center;
     text-align: center;
-
     height: 100vh;
     overflow: hidden;
     margin: 0;
@@ -29,6 +28,4 @@ body {
 
 .btn:hover {
     opacity: 0.8;
-
-
 }
